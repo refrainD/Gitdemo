@@ -7,5 +7,6 @@ package Aimyon;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("Aimyon36 ");
+        System.out.println("hello");
     }
 }
